@@ -3,21 +3,21 @@
 A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 
 [![npm](https://img.shields.io/npm/v/ai-renamer.svg?style=flat-square)](https://www.npmjs.com/package/ai-renamer)
-[![license](https://img.shields.io/npm/l/ai-renamer?style=flat-square)](https://github.com/ozgrozer/ai-renamer/blob/main/license)
+[![license](https://img.shields.io/npm/l/ai-renamer?style=flat-square)](https://github.com/mastermobsven/Ollama-renamer/blob/main/license)
 
 ## Preview
 
 Rename videos
 
-https://github.com/user-attachments/assets/502aedba-044e-4ed5-a1c7-bca84af2f3ce
+https://github.com/mastermobsven/Ollama-renamer/tree/main/assets/348569064-502aedba-044e-4ed5-a1c7-bca84af2f3ce.mp4
 
 Rename images
 
-https://github.com/ozgrozer/ai-renamer/assets/651938/0d229179-8385-4f17-a9fb-44d40c79d1e9
+https://github.com/mastermobsven/Ollama-renamer/tree/main/assets/346640497-0d229179-8385-4f17-a9fb-44d40c79d1e9.mp4
 
 Rename files
 
-https://github.com/user-attachments/assets/f8b37c3a-9cc0-48fc-aaea-f25f7b6ee4cc
+https://github.com/mastermobsven/Ollama-renamer/tree/main/assets/assets/348569098-f8b37c3a-9cc0-48fc-aaea-f25f7b6ee4cc.mp4
 
 ## Usage
 
@@ -123,8 +123,8 @@ trainCase: Two-Words
 
 ## Contribution
 
-Feel free to contribute. Open a new [issue](https://github.com/ozgrozer/ai-renamer/issues), or make a [pull request](https://github.com/ozgrozer/ai-renamer/pulls).
+Feel free to contribute. Open a new [issue](https://github.com/mastermobsven/Ollama-renamer/issues), or make a [pull request](https://github.com/mastermobsven/Ollama-renamer/pulls).
 
 ## License
 
-[GPL-3.0](https://github.com/ozgrozer/ai-renamer/blob/main/license)
+[GPL-3.0](https://github.com/mastermobsven/Ollama-renamer/blob/main/license)
